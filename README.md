@@ -1,59 +1,94 @@
-<h1 align="center">Hi 👋, I'm Osmar Castañeda</h1>
-<h3 align="center">💻 Software Developer | 🤖 AI Enthusiast | 🌐 Web Developer</h3>
+<!-- 🔥 BANNER -->
 
 <p align="center">
-  <a href="mailto:osmar.castaneda29@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Osmar845">💻 GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Osmar%20Castañeda&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Osmar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Enthusiast;Building+Real+World+Applications;Always+Learning" />
+</p>
+
+<p align="center">
+  <a href="mailto:osmar.castaneda29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Osmar845">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Osmar845&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Osmar845?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 Passionate Software Developer with a background in **Computer Systems Engineering**
+💻 Software Developer with a background in **Computer Systems Engineering**
 🎯 Focused on **Web Development & Artificial Intelligence**
-🧠 I enjoy building applications from scratch and improving real-world systems
+🧠 Experience building applications from scratch and improving production systems
 🌍 Open to **remote work and international opportunities**
+
+---
+
+## 🧠 What Makes Me Valuable
+
+✔ I already have hands-on experience building real systems
+✔ I can adapt quickly and learn new technologies fast
+✔ I understand both development and system improvement
+✔ I focus on solving real-world problems, not just writing code
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,git,github" />
 </p>
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 Featured Projects
 
-✨ Built applications from scratch, including **AI-based features**
-🔧 Maintained and improved **production systems**
-🚀 Added new modules and functionalities to existing platforms
-🤝 Worked with clients to gather requirements and deliver solutions
+### 🔹 AI-Based Application
+
+* Built from scratch with AI-related features
+* Focused on real-world problem solving
+* Includes backend logic and system integration
+
+### 🔹 Web Systems Improvements
+
+* Maintenance and enhancement of production systems
+* Added new modules and improved performance
+* Solved real user issues and optimized workflows
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osmar845&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar845&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osmar845&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar845&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Osmar845&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-* 🤖 Learning more about **Artificial Intelligence**
-* ⚙️ Strengthening **backend development skills**
+* 🤖 Deepening knowledge in **Artificial Intelligence**
+* ⚙️ Strengthening backend and system architecture
 * 🚀 Building scalable and efficient applications
 
 ---
@@ -67,4 +102,4 @@
 
 ## ⚡ Fun Fact
 
-I like turning ideas into real-world applications and constantly challenging myself to grow 🚀
+🚀 I enjoy turning ideas into real-world applications and constantly pushing myself to improve.
